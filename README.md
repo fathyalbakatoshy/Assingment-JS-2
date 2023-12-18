@@ -1,1 +1,1 @@
-# Assingment-JS-2
+Quote of the day
